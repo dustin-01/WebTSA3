@@ -1,0 +1,11 @@
+CI_ENVIRONMENT = production
+
+app.baseURL = 'https://your-domain/'
+
+database.default.hostname = 'your-database-host'
+database.default.database = 'your-database-name'
+database.default.username = 'your-database-username'
+database.default.password = 'your-database-password'
+database.default.DBDriver = MySQLi
+database.default.DBPrefix =
+database.default.port = 3306
